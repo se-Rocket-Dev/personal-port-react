@@ -16,5 +16,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # Packages if want to install by yourself
-### `npm install --save react-on-screen`
-### `npm install animate.css --save`
+`npm install --save react-on-screen`
+`npm install animate.css --save`
+`npm i --save cors`
