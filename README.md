@@ -15,9 +15,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-# Packages if want to install by yourself
-`npm install --save react-on-screen`
-
-`npm install animate.css --save`
-
+# All Packages 
+if want to install by yourself
+## Main
+`npm i react-bootstrap`
+## Contact Form
+`npm i nodemailer`
 `npm i --save cors`
+`npm i express -–save`
+## Newsletter
+`npm i mailchimp`
+
+## Animated Web
+`npm i --save react-on-screen`
+`npm i animate.css --save`
+`npm i react-multi-carousel`
+
+
